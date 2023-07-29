@@ -30,7 +30,7 @@ body {
 /* Header */
 
 
-.header{
+/* .header{
   margin-top: -10px;
   margin-left: -10px;
   width: 101%;
@@ -50,7 +50,7 @@ body {
           width: 150px;
           height: 150px; 
           */
-          padding: 1rem;
+ /*          padding: 1rem;
           margin-left: 10%;
           height: 150px;
           flex-shrink: 0;
@@ -61,7 +61,7 @@ body {
           font-size: 2rem;
       }
 
-  }
+  } */
 
   /* .left::after{
       content: '';
@@ -73,7 +73,7 @@ body {
       background-color: black;
   } */
 
-  .right{
+/*   .right{
       .logo2{
           position: absolute;
           right: 0;
@@ -82,9 +82,8 @@ body {
           height: 150px;
           flex-shrink: 0;
       }
-  }
+  } */
 
-}
 
 
   /* Navbar */
@@ -155,7 +154,7 @@ body {
   .carousel{
     width: 90%;
     height: auto;
-    background-image:  linear-gradient(45deg, rgba(82, 141, 255, 0.79) 0%, #477EE8 100%);    ;
+    background-image:  linear-gradient(45deg, #528dffc9 0%, #477EE8 100%);    ;
     margin-left: 5%;
     margin-top: 2.5rem;
     padding: 10px;
